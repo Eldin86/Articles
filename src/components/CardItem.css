@@ -1,0 +1,18 @@
+.img-overlay{
+    position: relative;
+    color: #ffffff;
+    padding: .25rem .25rem 0 .25rem;
+}
+.img-overlay .card-img{
+    border-radius: 15px;
+    min-height: 150px;
+}
+.img-overlay .card-title.h5{
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .5);
+    padding: 1rem;
+    margin: 0 .25rem 0 0;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
