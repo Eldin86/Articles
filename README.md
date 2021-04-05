@@ -18,7 +18,7 @@ Top Headlines -> https://newsapi.org/v2/top-headlines?country=us&category=busine
 Everything -> https://newsapi.org/v2/everything?q=Search_By_Keyword&sortBy=Filter_By_Relevance_Or_Popularity_Or_Published-Date&pageSize=100&apiKey=/*API_KEY*/
 
 ## Project Screen Shots
-![Test Image 7](https://media.giphy.com/media/ym7ghn8jJsbkP2YOUt/giphy.gif)
+![Screenshot](https://i.giphy.com/media/ym7ghn8jJsbkP2YOUt/giphy.webp)
 
 ## Installation and Setup Instructions
 Make sure you install all dependencies first, run npm -i (shorthand for npm install)
